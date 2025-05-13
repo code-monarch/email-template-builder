@@ -2,8 +2,6 @@
 
 A React component library for building and customizing email templates.
 
-image.png
-
 ## Clone the repository:
 git clone https://github.com/code-monarch/email-template-builder.git
 
