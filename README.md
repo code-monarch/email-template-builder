@@ -3,7 +3,7 @@
 A React component library for building and customizing email templates.
 
 ## Clone the repository:
-git clone
+git clone https://github.com/code-monarch/email-template-builder.git
 
 ## Installation
 
@@ -16,6 +16,16 @@ OR
 For use in a React project, install the package using npm or yarn or PNPM:
 \`\`\`bash
 pnpm add email-template-builder
+\`\`\`
+
+## Run dev server
+\`\`\`bash
+pnpm run dev
+\`\`\`
+
+## Run storybook
+\`\`\`bash
+pnpm run storybook
 \`\`\`
 
 ## Usage
@@ -38,10 +48,6 @@ function App() {
 - Export to HTML or JSON
 - Integration with email service providers
 - Responsive design preview
-
-## Documentation
-
-For full documentation, visit [our documentation site](https://your-docs-site.com).
 
 ## License
 
