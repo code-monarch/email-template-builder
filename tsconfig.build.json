@@ -1,0 +1,23 @@
+{
+  "extends": "./tsconfig.json",
+  "compilerOptions": {
+    "noEmit": false,
+    "declaration": true,
+    "declarationDir": "dist",
+    "sourceMap": true
+  },
+  "exclude": [
+    "node_modules",
+    "dist",
+    ".next",
+    "**/*.stories.tsx",
+    "**/*.test.tsx",
+    "**/*.spec.tsx",
+    "app",
+    "pages",
+    "examples",
+    "__tests__",
+    "stories",
+    ".storybook"
+  ]
+}
